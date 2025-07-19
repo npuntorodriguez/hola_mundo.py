@@ -16,8 +16,6 @@ numero = 156
 
 print("Hola ",numero,"!") # con una coma
 
-#print("Hola",numero"!" ) # con una coma
-
 #print("Hola"+numero ,"!") # con un + -- este debería arrojar un error
 
 print("Hola "+ str (numero)+"!") # con un + -- con conversión
